@@ -8,3 +8,4 @@ tmp/
 .cache/
 .pytest_cache/
 coverage/
+.vscode/
